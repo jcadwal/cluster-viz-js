@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(155,155,155);
+}
+
+.container{
+    
+    margin: 20px 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;    
+    
+}
+
+#control{
+    margin:10px;    
+    font-size: 40px;
+}
+
+select{
+    font-size: 40px;
+}
+
